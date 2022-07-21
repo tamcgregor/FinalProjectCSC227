@@ -1,0 +1,123 @@
+div#contactCard {
+    float: right;
+    text-align: right;
+    width: 22.5%;
+    font-size: 15;
+    padding-top: 39.5;
+    padding-bottom: 22.5px;
+    padding-right: 5px;
+}
+
+div#pageWrap {
+    padding:5;
+    width: 1000px;
+    margin: auto;
+    border: solid 1px black;
+}
+
+h1#name {
+    float:  left;
+    font-stretch: expanded;
+    font-size: 61;
+    width: 75%;
+}
+
+div#contactInfo {
+    width: 99%;
+    height: 125px;
+    padding: 5px;
+    border-bottom: solid 2px black;
+    margin: auto;
+}
+
+div.jobDescription {
+    float: right;
+    width: 70%;
+    height: 125px;
+}
+
+div#emp {
+    height: 420;
+    padding: 5;
+    z-index: 1;
+    height: fit-content;
+}
+
+.job {
+    float: left;
+    width: 30%;
+    clear: left;
+    height: 125px;
+}
+
+div#skills {
+    float: left;
+    width: 45%;
+    height: 250px;
+    margin: 2px;
+    padding: 5px;
+    margin-left: 20;
+    z-index: 1;
+    word-wrap: break-word;
+}
+
+div#tskills {
+    float: right;
+    width: 45%;
+    height: 250px;
+    margin: 2px;
+    padding: 5px;
+    margin-right: 25px;
+    z-index: 1;
+}
+
+div#education {
+    clear: both;
+    margin: auto;
+    margin-top: 25;
+    width: 95%;
+    padding: 10px;
+}
+
+div#references {
+    margin: auto;
+    width: 95%;
+    padding: 5px;
+}
+
+div#references {
+    text-align: center;
+    font-style: italic;
+}
+
+h4.company {
+    float: left;
+    width: 50%;
+    padding-left: 10px;
+    font-weight: bold;
+}
+
+h4.position {
+    float: right;
+    text-align: left;
+    width: 45%;
+    font-style: italic;
+}
+
+.sectionHead {
+    text-decoration: underline;
+    text-indent: 40;
+}
+
+p {
+    clear: both;
+}
+
+.employmentContainer {
+    height: 175;
+    z-index: 1;
+}
+
+li {
+    line-height: 1.5;
+}
